@@ -1,0 +1,12 @@
+$ node ExtentFilpCoin.js
+Tail
+Tail
+Tail
+Tail
+Tail
+Tail
+Tail
+Head
+Head
+Tail
+Head
